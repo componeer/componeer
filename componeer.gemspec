@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version     = Componeer::VERSION
   spec.authors     = ["André Rodrigues"]
   spec.email       = ["andrerpbts@gmail.com"]
-  spec.homepage    = "docs.componeer.me"
+  spec.homepage    = "https://docs.componeer.me"
   spec.summary     = ""
   spec.description = "TODO: Description of Componeer."
   spec.license     = "MIT"
