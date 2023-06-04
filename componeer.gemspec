@@ -9,7 +9,6 @@ Gem::Specification.new do |spec|
   spec.summary     = ""
   spec.description = "TODO: Description of Componeer."
   spec.license     = "MIT"
-  spec.mountable   = true
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/componeer/componeer"
